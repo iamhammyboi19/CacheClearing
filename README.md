@@ -1,4 +1,4 @@
-# Cache clearing app for MAC, WINDOWS and LINUX -- INSPIRED BY PARALLEL WINDOWS 'CLEAN DRIVE'
+#### Cache clearing app for MAC, WINDOWS and LINUX -- INSPIRED BY PARALLEL WINDOWS 'CLEAN DRIVE'
 
 - The current code is for **MAC OS** even tho it is not complete.
 - I got frustrated while writing it after it started crashing and bringing wrong calculations for cached file size
